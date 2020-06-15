@@ -1,1 +1,1 @@
-# house-price-pred
+# KC house-price-prediction
